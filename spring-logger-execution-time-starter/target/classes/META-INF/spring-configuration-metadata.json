@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "logging.time",
+      "type": "ru.gb.LoggingExecutionTimeProperties",
+      "sourceType": "ru.gb.LoggingExecutionTimeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "logging.time.log-level",
+      "type": "org.slf4j.event.Level",
+      "description": "Уровень логирования замера времени",
+      "sourceType": "ru.gb.LoggingExecutionTimeProperties"
+    }
+  ],
+  "hints": []
+}
